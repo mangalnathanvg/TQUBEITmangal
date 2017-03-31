@@ -6,3 +6,7 @@ To load the page
 	- Run node app.js in the command line using nodejs.
 	- Open browser and navigate to localhost:3000 to load the webpage.
 
+Note:
+- Please do suggest any improvements in the code.
+- No templates have been used.
+- This webpage is the result of a learning process for BOOTSTRAP.
